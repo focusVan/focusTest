@@ -1,0 +1,220 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.cleardiv {
+	clear: both;
+}
+
+body {
+	font-size: 62.5%;
+	font-family: SimSun;
+}
+
+.top {
+	font-size: 1.5em;
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	padding-top: 0.1em;
+	padding-bottom: 0.1em;
+	background-color: #ffab43;
+	font-size: 1.2em;
+}
+
+.mid {
+	width: 90%;
+	margin: 2em 5% 2em 5%;
+}
+
+.middemo {
+	width: 85%;
+	margin: 2em 10% 2em 5%;
+	height: 15em;
+}
+
+.midtest {
+	width: 90%;
+	margin: 1em 5% 1em 5%;
+	height: 5em;
+}
+
+.inputdiv {
+	margin-bottom: 3em;
+	width: 100%;
+}
+
+.inputdiv input {
+	width: 100%;
+	height: 4em;
+	color: #8d8d8d;
+	border-width: 0.1em;
+	border-style: solid;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	border-color: #e8e8e8;
+	background-color: #e8e8e8;
+}
+
+.demo{
+	width: 100%;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	background-color: #fea93e;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	text-align: center;
+	color: #fff;
+	font-size: 4em;
+	height:3em;
+}
+
+.demo2{
+	width: 100%;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	background-color: #fea93e;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	text-align: center;
+	color: #fff;
+	font-size: 4em;
+	height:10em;
+}
+
+.ancient{
+	width: 100%;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	background-color: #fea93e;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	text-align: center;
+	color: #fff;
+	font-size: 5em;
+	height:2em;
+}
+
+.ancientend{
+	width: 100%;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	background-color: #fea93e;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	text-align: center;
+	color: #fff;
+	font-size: 5em;
+	height:7em;
+}
+
+.midancient {
+	width: 85%;
+	margin: 2em 10% 2em 5%;
+}
+
+.logindiv {
+	width: 100%;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	background-color: #fea93e;
+	color: #fff;
+}
+
+.logindivmargin {
+	padding: 0.6em 0;
+	width: 100%;
+	text-align: center;
+	font-size: 5em;
+	height:1.2em;
+}
+
+
+.search {
+	width: 100%;
+	-moz-border-radius: 0.5em;
+	-khtml-border-radius: 0.5em;
+	-webkit-border-radius: 0.5em;
+	border-radius: 0.5em;
+	background-color: #fea93e;
+	color: #fff;
+	margin-top: 2em;
+	height:6em;
+}
+
+.searchInfo {
+	padding: 0.3em;
+	width: 100%;
+	text-align: center;
+	font-size: 5em;
+}
+
+.mids{
+	width: 90%;
+	margin: 10em 5% 10em 5%;
+	background-color: #fea93e;
+	height: 10em;
+}
+
+.datePick {
+	float: left;
+	width: 90%;
+	text-align: center;
+	color: #ababab;
+	font-size: 1em;
+	height: 5em;
+	line-height: 2em;
+	margin: 1em 10% 1em 5%
+}
+
+.yesterday {
+	float: left;
+	width: 15%;
+	text-align: center;
+	color: #ababab;
+	border: 0.1em solid #ababab;
+	font-size: 2.5em;
+	height: 2.5em;
+	line-height: 2em;
+	margin: 0 1% 0 1%
+}
+
+
+.current {
+	float: left;
+	width: 60%;
+	text-align: center;
+	color: #ababab;
+	border: 0.1em solid #ababab;
+	font-size: 2.5em;
+	height: 2.5em;
+	line-height: 2em;
+}
+
+.tomorrow {
+	float: left;
+	width: 15%;
+	text-align: center;
+	color: #ababab;
+	border: 0.1em solid #ababab;
+	font-size: 2.5em;
+	height: 2.5em;
+	line-height: 2em;
+	margin: 0 1% 0 1%
+}
+
+
+.middate{
+	width: 90%;
+	margin: 1em 5% 1em 5%;
+	background-color: #fea93e;
+}
